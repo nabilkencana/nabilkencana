@@ -1,111 +1,118 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=gradient&desc=Welcome%20to%20My%20World&descSize=20&descAlign=50&descAlignY=70&theme=radical&animation=twinkling"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+  <br>
+  <h2>✨ Tech Enthusiast | Full-Stack Developer | Problem Solver ✨</h2>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://linkedin.com/in/nabilkencana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin" />
+  </a>
+  <a href="https://youtube.com/@nabilkencana3227" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" alt="youtube" />
+  </a>
+  <a href="https://instagram.com/nabill.anwr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="instagram" />
+  </a>
+  <a href="https://github.com/nabilkencana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="github" />
+  </a>
+  <a href="mailto:nabilkencana20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nabilkencana.nabilkencana&"  />
+  <img src="https://komarev.com/ghpvc/?username=nabilkencana&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/nabilkencana?label=Followers&style=social" alt="followers" />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
+## 👨‍💻 Tentang Saya
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nabilkencana.nabilkencana&"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Passionate+Developer+from+Indonesia;Full-Stack+Web+%26+Mobile+Developer;Open+Source+Contributor;Tech+Innovator+%26+Problem+Solver" alt="Typing SVG" />
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <br>
+  💻 <strong>Software Engineer</strong> dengan fokus pada pengembangan aplikasi modern<br>
+  🚀 Spesialis dalam <strong>JavaScript Ecosystem</strong> & <strong>Mobile Development</strong><br>
+  📱 Membangun aplikasi yang <strong>scalable</strong> dan <strong>user-friendly</strong><br>
+  🎯 Selalu belajar teknologi terbaru dan best practices<br>
+  🤝 Senang berkolaborasi dalam proyek open source
+</p>
 
 ###
 
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend Development
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,flutter,dart" height="40" />
+</div>
+
+### ⚙️ Backend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,python,express,mongodb,postgres,mysql,firebase" height="40" />
+</div>
+
+### 🎨 Design & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,androidstudio,xcode,postman,docker,aws" height="40" />
+</div>
+
+### 📚 Currently Learning
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=go,rust,kubernetes,graphql,tailwind,sass" height="40" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilkencana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilkencana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nabilkencana&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=27" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilkencana&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilkencana&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabilkencana/nabilkencana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabilkencana/nabilkencana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nabilkencana/nabilkencana/output/pacman-contribution-graph.svg">
-</picture>
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nabilkencana&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+###
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilkencana&theme=radical&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+</div>
 
 ###
 
@@ -113,10 +120,53 @@
 
 ###
 
+###
+
+## 🎵 Spotify Now Playing
 <div align="center">
   <a href="https://open.spotify.com/user/31hmnkta25c7c522k4pjp6czilny">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hmnkta25c7c522k4pjp6czilny&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hmnkta25c7c522k4pjp6czilny&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
 
 ###
+
+## 🔥 Highlights & Projects
+
+<details>
+<summary>📌 Featured Projects</summary>
+<br>
+  
+### 🚀 Web Applications
+- **[EcoGuard AI]** - Smart Monitoring for Sustainable Future
+- **[Portofolio Pendidik]** - Portofolio for teacher
+  
+### 📱 Mobile Apps
+- **[EcoGuard AI]** - Smart Monitoring for Sustainable Future
+- **[WargaKita APP]** - Managing data for Villager
+
+### 🛠️ Tools & Libraries
+- **[Utility Tool]** - Open source tool for developers
+- **[NPM Package]** - Published package on npm registry
+</details>
+
+###
+
+## 📫 Let's Connect!
+<div align="center">
+  <p>
+    💼 <strong>Open to collaboration</strong> on interesting projects<br>
+    📧 Feel free to reach out for <strong>tech discussions</strong><br>
+    🌐 Let's build something <strong>amazing</strong> together!
+  </p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://canadev.my.id)
+  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your-profile)
+</div>
+
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=gradient&desc=Thanks%20for%20Visiting!&descSize=20&descAlign=50&descAlignY=70&theme=radical" />
+</div>
