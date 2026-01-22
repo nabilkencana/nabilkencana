@@ -112,10 +112,9 @@
 ## 🎵 Spotify Now Playing
 <div align="center">
   <a href="https://open.spotify.com/user/31hmnkta25c7c522k4pjp6czilny">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hmnkta25c7c522k4pjp6czilny&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hmnkta25c7c522k4pjp6czilny&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
 ###
 
 ## 🔥 Highlights & Projects
