@@ -115,7 +115,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hmnkta25c7c522k4pjp6czilny&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-###
+
 
 ## 🔥 Highlights & Projects
 
