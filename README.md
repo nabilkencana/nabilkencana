@@ -48,7 +48,7 @@
 <p align="center">
   <br>
   💻 <strong>Software Engineer</strong> dengan fokus pada pengembangan aplikasi modern<br>
-  🚀 Spesialis dalam <strong>JavaScript Ecosystem</strong> & <strong>Mobile Development</strong><br>
+  🚀 Berfokus dalam <strong>JavaScript Ecosystem</strong> & <strong>Mobile Development</strong><br>
   📱 Membangun aplikasi yang <strong>scalable</strong> dan <strong>user-friendly</strong><br>
   🎯 Selalu belajar teknologi terbaru dan best practices<br>
   🤝 Senang berkolaborasi dalam proyek open source
@@ -70,12 +70,12 @@
 
 ### 🎨 Design & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,androidstudio,xcode,postman,docker,aws" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma,androidstudio,canva" height="40" />
 </div>
 
 ### 📚 Currently Learning
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go,rust,kubernetes,graphql,tailwind,sass" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,rust,kubernetes,graphql,tailwind,sass,aws,docker" height="40" />
 </div>
 
 ###
