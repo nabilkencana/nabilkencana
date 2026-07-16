@@ -25,7 +25,6 @@ Currently studying Computer Science, I focus on building scalable applications w
 | **Mobile Development** | Building robust, high-performance cross-platform applications using Flutter & Dart. |
 | **Web & Backend** | Designing reliable APIs, middleware, and services using TypeScript, Node.js, and Go. |
 | **AI Integration** | Implementing intelligent features, LLM workflows, and smart automation into applications. |
-| **Cloud & DevOps** | Automating pipelines, containerization, and modern deployment strategies. |
 
 ## Featured Work
 
