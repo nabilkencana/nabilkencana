@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MOVITE Frontend",
+    "repo": "nabilkencana/dev-frontend-undangan",
+    "url": "https://github.com/nabilkencana/dev-frontend-undangan",
+    "focus": "Invitation website",
+    "summary": "Website for create digital invitation easily and quickly. Built with React Js.",
+    "tags": ["React Js", "Tailwind CSS", "TypeScript", "Next Js"]
+  },
+  {
+    "name": "Oksigen Medis 24 Jam (Mobile)",
+    "repo": "nabilkencana/oksigen24medis-mobile",
+    "url": "https://github.com/nabilkencana/oksigen24medis-mobile",
+    "focus": "Medical oxygen supply platform",
+    "summary": "Mobile application for ordering and delivering medical oxygen, including emergency features and order tracking. Built with Flutter.",
+    "tags": ["Flutter", "Dart", "API", "Rest API"]
+  },
+  {
+    "name": "Portofolio NabilKencana",
+    "repo": "nabilkencana/Portofolio",
+    "url": "https://github.com/nabilkencana/Portofolio",
+    "focus": "Portfolio website NabilKencana",
+    "summary": "Portfolio website NabilKencana to show my project and my skill. Built with Vite Js.",
+    "tags": ["Vite Js", "React 19", "Firebase", "Tailwind CSS", "3D"]
+  }
+]
