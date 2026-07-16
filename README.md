@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://canadev.my.id"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-canadev.my.id-0B1220?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://canadev.my.id"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-canadev.my.id-0B1220?style=for-the-badge&logo=firefox-browser&logoColor=white" target="_blank"></a>
 </p>
 
 ## About Me
