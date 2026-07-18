@@ -2,7 +2,10 @@ name: Update profile README
 
 on:
   schedule:
-    - cron: "17 1 * * *"
+    - cron: "0 * * * *"   # every hour, on the hour
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:

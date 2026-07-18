@@ -42,6 +42,12 @@ function eventToLine(event) {
       const refType = event.payload?.ref_type || "resource";
       return `- ${date}: created a ${refType} in [${repo}](${repoLink}).`;
     }
+    case "ForkEvent": {
+      const forkName = event.payload?.forkee?.full_name;
+      const forkUrl = event.payload?.forkee?.html_url || repoLink;
+      const suffix = forkName ? ` → [${forkName}](${forkUrl})` : "";
+      return `- ${date}: forked [${repo}](${repoLink})${suffix}.`;
+    }
     case "PullRequestEvent": {
       const action = event.payload?.action || "updated";
       const number = event.payload?.pull_request?.number;
@@ -69,10 +75,21 @@ async function fetchRecentActivity() {
   }
 
   const events = await response.json();
+  // Group pushes by repo+date so multiple commits to same repo on same day count as one entry
+  const seen = new Set();
   const lines = events
-    .map(eventToLine)
+    .map(event => {
+      const line = eventToLine(event);
+      if (!line) return null;
+      // For PushEvent, deduplicate by repo + date to avoid many same-day pushes
+      const key = event.type === "PushEvent"
+        ? `PushEvent::${event.repo?.name}::${formatDate(event.created_at)}`
+        : line;
+      if (seen.has(key)) return null;
+      seen.add(key);
+      return line;
+    })
     .filter(Boolean)
-    .filter((line, index, all) => all.indexOf(line) === index)
     .slice(0, 6);
 
   if (!lines.length) {
