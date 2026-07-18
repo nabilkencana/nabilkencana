@@ -51,12 +51,11 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Jul 18, 2026: pushed 1 commit to [nabilkencana/nabilkencana](https://github.com/nabilkencana/nabilkencana).
 - Jul 18, 2026: pushed 1 commit to [ElZidane123/mokleters](https://github.com/ElZidane123/mokleters).
+- Jul 18, 2026: pushed 1 commit to [nabilkencana/nabilkencana](https://github.com/nabilkencana/nabilkencana).
 - Jul 18, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Mobile](https://github.com/nabilkencana/Oksigen24Medis-Mobile).
 - Jul 18, 2026: forked [ElZidane123/mokleters](https://github.com/ElZidane123/mokleters) → [nabilkencana/mokleters](https://github.com/nabilkencana/mokleters).
 - Jul 18, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Backend](https://github.com/nabilkencana/Oksigen24Medis-Backend).
-- Jul 17, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Mobile](https://github.com/nabilkencana/Oksigen24Medis-Mobile).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
