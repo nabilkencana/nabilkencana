@@ -23,7 +23,7 @@ Currently studying Computer Science, I focus on building scalable applications w
 | Area | What I am exploring |
 | --- | --- |
 | **Mobile Development** | Building robust, high-performance cross-platform applications using Flutter & Dart. |
-| **Web & Backend** | Designing reliable APIs, middleware, and services using TypeScript, Node.js, and Go. |
+| **Web & Backend** | Designing reliable APIs, middleware, and services using TypeScript, Node.js, NestJS, and Prisma. |
 | **AI Integration** | Implementing intelligent features, LLM workflows, and smart automation into applications. |
 
 ## Featured Work
@@ -37,15 +37,21 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Tech Stack
 
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1E293B?style=flat-square&logo=flutter&logoColor=02569B">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-1E293B?style=flat-square&logo=dart&logoColor=0175C2">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-1E293B?style=flat-square&logo=dart&logoColor=0175C2">
+  <img alt="Python" src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=3776AB">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1E293B?style=flat-square&logo=flutter&logoColor=02569B">
+  <img alt="React" src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-1E293B?style=flat-square&logo=vite&logoColor=646CFF">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
-  <img alt="Go" src="https://img.shields.io/badge/Go-1E293B?style=flat-square&logo=go&logoColor=00ADD8">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=93C5FD">
-  <img alt="Git" src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1E293B?style=flat-square&logo=nestjs&logoColor=E0234E">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-1E293B?style=flat-square&logo=prisma&logoColor=2D3748">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED">
+  <img alt="Git" src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032">
 </p>
 
 ## Recent Activity
