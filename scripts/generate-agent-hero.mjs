@@ -11,7 +11,7 @@ const scriptDirectory = fileURLToPath(new URL(".", import.meta.url));
 const outputDirectory = resolve(scriptDirectory, "../assets/hero");
 
 const portraitFilter = [
-  "crop=360:400:24:200",
+  "crop=260:360:74:210",
   "format=gray",
   "eq=contrast=1.18:brightness=0.04:gamma=0.96",
   "unsharp=3:3:0.35"
@@ -79,32 +79,32 @@ const layouts = {
     infoPanel: { x: 508, y: 48, width: 655, height: 500, radius: 14 },
     visualTitle: { x: 30, y: 62 },
     infoTitle: { x: 524, y: 62 },
-    portrait: { columns: 96, rows: 64, x: 78, y: 90, lineHeight: 6.65, fontSize: 6.5 },
+    portrait: { columns: 76, rows: 54, x: 91, y: 104, lineHeight: 7.2, fontSize: 7.6 },
     portraitClip: { x: 24, y: 82, width: 470, height: 438, radius: 12 },
     system: { x: 528, y: 82, width: 620, lineHeight: 21.5, fontSize: 14 },
     footerY: 585
   },
   mobile: {
     width: 720,
-    height: 1080,
+    height: 1170,
     outerRadius: 22,
     titlebar: { x: 20, y: 20, width: 680, height: 42, radius: 14 },
-    visualPanel: { x: 48, y: 94, width: 624, height: 350, radius: 14 },
-    infoPanel: { x: 48, y: 470, width: 624, height: 526, radius: 14 },
-    visualTitle: { x: 66, y: 116 },
-    infoTitle: { x: 66, y: 492 },
-    portrait: { columns: 84, rows: 54, x: 180, y: 132, lineHeight: 5.7, fontSize: 6.6 },
-    portraitClip: { x: 58, y: 122, width: 604, height: 312, radius: 12 },
-    system: { x: 72, y: 520, width: 574, lineHeight: 21, fontSize: 13 },
-    footerY: 1045
+    visualPanel: { x: 48, y: 80, width: 624, height: 460, radius: 14 },
+    infoPanel: { x: 48, y: 560, width: 624, height: 530, radius: 14 },
+    visualTitle: { x: 66, y: 102 },
+    infoTitle: { x: 66, y: 582 },
+    portrait: { columns: 76, rows: 54, x: 193, y: 121, lineHeight: 7.2, fontSize: 7.6 },
+    portraitClip: { x: 68, y: 104, width: 584, height: 416, radius: 12 },
+    system: { x: 72, y: 610, width: 574, lineHeight: 22, fontSize: 13 },
+    footerY: 1135
   }
 };
 
 function buildAmbientPortraitLayer(layout, colors, size) {
   const clip = layout.portraitClip;
   const isDesktop = size === "desktop";
-  const centerX = clip.x + clip.width * (isDesktop ? 0.52 : 0.5);
-  const centerY = clip.y + clip.height * (isDesktop ? 0.48 : 0.43);
+  const centerX = clip.x + clip.width * 0.5;
+  const centerY = clip.y + clip.height * 0.5;
   const orbitWidth = clip.width * (isDesktop ? 0.9 : 0.82);
   const orbitHeight = clip.height * (isDesktop ? 0.58 : 0.62);
   const left = clip.x + (isDesktop ? 28 : 34);
@@ -340,7 +340,7 @@ ${ambientPortrait}
 ${system.rows}
 <rect x="${layout.system.x + 2}" y="${cursorY}" width="9" height="${layout.system.fontSize + 2}" fill="${colors.cyan}" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.03;0.06;0.32;0.5;0.68;0.84;1" dur="1.4s" begin="3.3s" repeatCount="indefinite"/></rect>
 <text x="${layout.width / 2}" y="${layout.footerY}" text-anchor="middle" class="mono" font-size="10" letter-spacing="1.5" fill="${colors.muted}">FLUTTER / WEB / AI INTEGRATION</text>
-<rect x="0" y="-70" width="${layout.width}" height="70" fill="url(#scan)" opacity="0.72" style="mix-blend-mode:${colors.scanBlend}"><animateTransform attributeName="transform" type="translate" from="0 -70" to="0 ${layout.height + 70}" dur="4.5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="-70" width="${layout.width}" height="70" fill="url(#scan)" opacity="0.20" style="mix-blend-mode:${colors.scanBlend}"><animateTransform attributeName="transform" type="translate" from="0 -70" to="0 ${layout.height + 70}" dur="4.5s" repeatCount="indefinite"/></rect>
 <rect x="3" y="3" width="${layout.width - 6}" height="${layout.height - 6}" rx="${layout.outerRadius - 2}" fill="none" stroke="url(#border)" stroke-width="2" opacity="0.76"><animate attributeName="opacity" values="0.5;0.94;0.5" dur="3.4s" repeatCount="indefinite"/></rect>
 </svg>`;
 }

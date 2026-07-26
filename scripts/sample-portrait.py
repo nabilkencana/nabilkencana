@@ -20,11 +20,11 @@ def main():
     else:
         img = img.convert("RGB")
 
-    # Crop parameters for the background-removed image (408x612)
-    left = 24
-    top = 200
-    right = 24 + 360
-    bottom = 200 + 400
+    # Tight, symmetrical crop centered around subject (X center = 204)
+    left = 74
+    top = 210
+    right = 334
+    bottom = 570
     img = img.crop((left, top, right, bottom))
 
     # Grayscale conversion
