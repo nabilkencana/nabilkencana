@@ -2,8 +2,13 @@ import { readFile, writeFile } from "node:fs/promises";
 
 const USERNAME = "nabilkencana";
 const README_PATH = new URL("../README.md", import.meta.url);
-const START = "<!-- AUTO:ACTIVITY:START -->";
-const END = "<!-- AUTO:ACTIVITY:END -->";
+const FEATURED_DATA_PATH = new URL("../data/featured-projects.json", import.meta.url);
+
+const ACTIVITY_START = "<!-- AUTO:ACTIVITY:START -->";
+const ACTIVITY_END = "<!-- AUTO:ACTIVITY:END -->";
+
+const FEATURED_START = "<!-- AUTO:FEATURED:START -->";
+const FEATURED_END = "<!-- AUTO:FEATURED:END -->";
 
 const dryRun = process.argv.includes("--dry-run");
 const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
@@ -15,6 +20,16 @@ const headers = {
 
 if (token) {
   headers.Authorization = `Bearer ${token}`;
+}
+
+async function githubFetch(url) {
+  let res = await fetch(url, { headers });
+  if (res.status === 401 && headers.Authorization) {
+    const noAuthHeaders = { ...headers };
+    delete noAuthHeaders.Authorization;
+    res = await fetch(url, { headers: noAuthHeaders });
+  }
+  return res;
 }
 
 function formatDate(value) {
@@ -68,62 +83,125 @@ function eventToLine(event) {
 }
 
 async function fetchRecentActivity() {
-  const response = await fetch(`https://api.github.com/users/${USERNAME}/events/public?per_page=40`, { headers });
+  try {
+    const response = await githubFetch(`https://api.github.com/users/${USERNAME}/events/public?per_page=40`);
 
-  if (!response.ok) {
-    throw new Error(`GitHub API returned ${response.status} ${response.statusText}`);
+    if (!response.ok) {
+      console.warn(`GitHub API returned ${response.status} ${response.statusText} for recent activity`);
+      return null;
+    }
+
+    const events = await response.json();
+    const seen = new Set();
+    const lines = events
+      .map(event => {
+        const line = eventToLine(event);
+        if (!line) return null;
+        const key = event.type === "PushEvent"
+          ? `PushEvent::${event.repo?.name}::${formatDate(event.created_at)}`
+          : line;
+        if (seen.has(key)) return null;
+        seen.add(key);
+        return line;
+      })
+      .filter(Boolean)
+      .slice(0, 6);
+
+    if (!lines.length) {
+      return "_No recent public activity was found._";
+    }
+
+    return lines.join("\n");
+  } catch (err) {
+    console.warn("Failed to fetch recent activity:", err.message);
+    return null;
   }
-
-  const events = await response.json();
-  // Group pushes by repo+date so multiple commits to same repo on same day count as one entry
-  const seen = new Set();
-  const lines = events
-    .map(event => {
-      const line = eventToLine(event);
-      if (!line) return null;
-      // For PushEvent, deduplicate by repo + date to avoid many same-day pushes
-      const key = event.type === "PushEvent"
-        ? `PushEvent::${event.repo?.name}::${formatDate(event.created_at)}`
-        : line;
-      if (seen.has(key)) return null;
-      seen.add(key);
-      return line;
-    })
-    .filter(Boolean)
-    .slice(0, 6);
-
-  if (!lines.length) {
-    return "_No recent public activity was found._";
-  }
-
-  return lines.join("\n");
 }
 
-function replaceGeneratedBlock(readme, nextContent) {
-  const startIndex = readme.indexOf(START);
-  const endIndex = readme.indexOf(END);
+async function fetchFeaturedProjects() {
+  const jsonContent = await readFile(FEATURED_DATA_PATH, "utf8");
+  const projects = JSON.parse(jsonContent);
+
+  const rows = [];
+  rows.push("| Project | Focus | Why it matters |");
+  rows.push("| --- | --- | --- |");
+
+  for (const project of projects) {
+    let repoDetails = null;
+    if (project.repo) {
+      try {
+        const res = await githubFetch(`https://api.github.com/repos/${project.repo}`);
+        if (res.ok) {
+          repoDetails = await res.json();
+        }
+      } catch (e) {
+        console.warn(`Failed to fetch repo stats for ${project.repo}:`, e.message);
+      }
+    }
+
+    const nameCell = `[**${project.name}**](${project.url})`;
+    const focusCell = project.focus;
+    
+    let summary = project.summary;
+    if (repoDetails) {
+      const stars = repoDetails.stargazers_count || 0;
+      const lastPush = repoDetails.pushed_at ? formatDate(repoDetails.pushed_at) : null;
+      
+      const statsText = [];
+      if (stars > 0) {
+        statsText.push(`⭐ ${stars} star${stars > 1 ? "s" : ""}`);
+      }
+      if (lastPush) {
+        statsText.push(`🕒 Updated ${lastPush}`);
+      }
+      
+      if (statsText.length > 0) {
+        summary += `<br><sub>${statsText.join(" · ")}</sub>`;
+      }
+    }
+
+    rows.push(`| ${nameCell} | ${focusCell} | ${summary} |`);
+  }
+
+  return rows.join("\n");
+}
+
+function replaceBlock(content, startMarker, endMarker, nextBlock) {
+  const startIndex = content.indexOf(startMarker);
+  const endIndex = content.indexOf(endMarker);
 
   if (startIndex === -1 || endIndex === -1 || endIndex <= startIndex) {
-    throw new Error("README activity markers are missing or malformed.");
+    return content;
   }
 
   return [
-    readme.slice(0, startIndex + START.length),
+    content.slice(0, startIndex + startMarker.length),
     "\n",
-    nextContent,
+    nextBlock,
     "\n",
-    readme.slice(endIndex)
+    content.slice(endIndex)
   ].join("");
 }
 
-const readme = await readFile(README_PATH, "utf8");
+let readme = await readFile(README_PATH, "utf8");
+
+const featuredTable = await fetchFeaturedProjects();
+if (featuredTable) {
+  readme = replaceBlock(readme, FEATURED_START, FEATURED_END, featuredTable);
+}
+
 const activity = await fetchRecentActivity();
-const nextReadme = replaceGeneratedBlock(readme, activity);
+if (activity) {
+  readme = replaceBlock(readme, ACTIVITY_START, ACTIVITY_END, activity);
+}
 
 if (dryRun) {
+  console.log("=== FEATURED WORK TABLE ===");
+  console.log(featuredTable);
+  console.log("\n=== RECENT ACTIVITY ===");
   console.log(activity);
   console.log("\nDry run complete. README.md was not modified.");
 } else {
-  await writeFile(README_PATH, nextReadme);
-  console.log("README.md activity block updated.");
+  await writeFile(README_PATH, readme);
+  console.log("README.md updated successfully.");
 }
