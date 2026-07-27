@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Jul 27, 2026: pushed 1 commit to [nabilkencana/Task-Manager---Golang](https://github.com/nabilkencana/Task-Manager---Golang).
 - Jul 26, 2026: pushed 1 commit to [nabilkencana/Portofolio](https://github.com/nabilkencana/Portofolio).
 - Jul 26, 2026: pushed 1 commit to [nabilkencana/nabilkencana](https://github.com/nabilkencana/nabilkencana).
 - Jul 25, 2026: pushed 1 commit to [nabilkencana/Task-Manager---Golang](https://github.com/nabilkencana/Task-Manager---Golang).
 - Jul 25, 2026: created a branch in [nabilkencana/Task-Manager---Golang](https://github.com/nabilkencana/Task-Manager---Golang).
 - Jul 24, 2026: pushed 1 commit to [nabilkencana/Portofolio](https://github.com/nabilkencana/Portofolio).
-- Jul 24, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Dashboard](https://github.com/nabilkencana/Oksigen24Medis-Dashboard).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
