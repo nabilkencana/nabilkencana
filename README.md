@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Jul 29, 2026: pushed 1 commit to [nabilkencana/Posive-POS-Frontend](https://github.com/nabilkencana/Posive-POS-Frontend).
+- Jul 29, 2026: pushed 1 commit to [Nabilkencana22/Posive-POS-Backend](https://github.com/Nabilkencana22/Posive-POS-Backend).
+- Jul 29, 2026: pushed 1 commit to [nabilkencana/Posive-POS-Backend](https://github.com/nabilkencana/Posive-POS-Backend).
 - Jul 28, 2026: created a branch in [nabilkencana/Posive-POS-Frontend](https://github.com/nabilkencana/Posive-POS-Frontend).
 - Jul 28, 2026: created a branch in [nabilkencana/Posive-POS-Backend](https://github.com/nabilkencana/Posive-POS-Backend).
 - Jul 28, 2026: pushed 1 commit to [nabilkencana/Posive-POS-Backend](https://github.com/nabilkencana/Posive-POS-Backend).
-- Jul 28, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Mobile](https://github.com/nabilkencana/Oksigen24Medis-Mobile).
-- Jul 27, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
-- Jul 26, 2026: pushed 1 commit to [nabilkencana/Portofolio](https://github.com/nabilkencana/Portofolio).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
