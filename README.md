@@ -50,9 +50,9 @@ Currently studying Computer Science, I focus on building scalable applications w
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1E293B?style=flat-square&logo=nestjs&logoColor=E0234E">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-1E293B?style=flat-square&logo=laravel&logoColor=FF2D20">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-1E293B?style=flat-square&logo=prisma&logoColor=2D3748">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED">
   <img alt="Git" src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032">
 </p>
 
