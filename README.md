@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 5, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Aug 4, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Aug 1, 2026: pushed 1 commit to [nabilkencana/nabilkencana](https://github.com/nabilkencana/nabilkencana).
 - Aug 1, 2026: pushed 1 commit to [nabilkencana/Portofolio](https://github.com/nabilkencana/Portofolio).
 - Jul 31, 2026: pushed 1 commit to [nabilkencana/Portofolio](https://github.com/nabilkencana/Portofolio).
 - Jul 29, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
-- Jul 29, 2026: pushed 1 commit to [nabilkencana/Posive-POS-Frontend](https://github.com/nabilkencana/Posive-POS-Frontend).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
