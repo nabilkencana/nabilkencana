@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 9, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 - Aug 8, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 - Aug 8, 2026: created a branch in [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 - Aug 8, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Mobile](https://github.com/nabilkencana/Oksigen24Medis-Mobile).
 - Aug 8, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Backend](https://github.com/nabilkencana/Oksigen24Medis-Backend).
 - Aug 6, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Mobile](https://github.com/nabilkencana/Oksigen24Medis-Mobile).
-- Aug 5, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
