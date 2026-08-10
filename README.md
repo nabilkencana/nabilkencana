@@ -61,7 +61,6 @@ Currently studying Computer Science, I focus on building scalable applications w
 <!-- AUTO:ACTIVITY:START -->
 - Aug 10, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 - Aug 9, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
-- Aug 8, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
