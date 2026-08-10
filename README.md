@@ -62,9 +62,6 @@ Currently studying Computer Science, I focus on building scalable applications w
 - Aug 10, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 - Aug 9, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 - Aug 8, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
-- Aug 8, 2026: created a branch in [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
-- Aug 8, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Mobile](https://github.com/nabilkencana/Oksigen24Medis-Mobile).
-- Aug 8, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Backend](https://github.com/nabilkencana/Oksigen24Medis-Backend).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
