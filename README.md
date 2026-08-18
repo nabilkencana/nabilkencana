@@ -59,6 +59,7 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 18, 2026: pushed 1 commit to [nabilkencana/Latihan-BE-Perpustakaan](https://github.com/nabilkencana/Latihan-BE-Perpustakaan).
 - Aug 10, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 - Aug 9, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 <!-- AUTO:ACTIVITY:END -->
