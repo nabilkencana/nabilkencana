@@ -33,7 +33,7 @@ Currently studying Computer Science, I focus on building scalable applications w
 | --- | --- | --- |
 | [**MOVITE Frontend**](https://github.com/nabilkencana/dev-frontend-undangan) | Invitation website | Website for create digital invitation easily and quickly. Built with React Js. |
 | [**Oksigen Medis 24 Jam (Mobile)**](https://github.com/nabilkencana/oksigen24medis-mobile) | Medical oxygen supply platform | Mobile application for ordering and delivering medical oxygen, including emergency features and order tracking. Built with Flutter.<br><sub>🕒 Updated Aug 8, 2026</sub> |
-| [**Portofolio NabilKencana**](https://github.com/nabilkencana/Portofolio) | Portfolio website NabilKencana | Portfolio website NabilKencana to show my project and my skill. Built with Vite Js.<br><sub>🕒 Updated Aug 1, 2026</sub> |
+| [**Portofolio NabilKencana**](https://github.com/nabilkencana/Portofolio) | Portfolio website NabilKencana | Portfolio website NabilKencana to show my project and my skill. Built with Vite Js.<br><sub>🕒 Updated Aug 20, 2026</sub> |
 <!-- AUTO:FEATURED:END -->
 
 ## Tech Stack
@@ -59,11 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 20, 2026: pushed 1 commit to [nabilkencana/Portofolio](https://github.com/nabilkencana/Portofolio).
+- Aug 20, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Aug 19, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Aug 18, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Aug 18, 2026: pushed 1 commit to [nabilkencana/Latihan-BE-Perpustakaan](https://github.com/nabilkencana/Latihan-BE-Perpustakaan).
 - Aug 10, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
-- Aug 9, 2026: pushed 1 commit to [nabilkencana/Eppos-Booth](https://github.com/nabilkencana/Eppos-Booth).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
