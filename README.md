@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 22, 2026: pushed 1 commit to [nabilkencana/AI-Service-LaporKita](https://github.com/nabilkencana/AI-Service-LaporKita).
+- Aug 22, 2026: created a branch in [nabilkencana/AI-Service-LaporKita](https://github.com/nabilkencana/AI-Service-LaporKita).
 - Aug 22, 2026: pushed 1 commit to [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 - Aug 22, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Aug 22, 2026: created a branch in [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 - Aug 21, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
-- Aug 20, 2026: pushed 1 commit to [nabilkencana/Portofolio](https://github.com/nabilkencana/Portofolio).
-- Aug 20, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
