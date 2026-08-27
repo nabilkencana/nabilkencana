@@ -32,7 +32,7 @@ Currently studying Computer Science, I focus on building scalable applications w
 | Project | Focus | Why it matters |
 | --- | --- | --- |
 | [**MOVITE Frontend**](https://github.com/nabilkencana/dev-frontend-undangan) | Invitation website | Website for create digital invitation easily and quickly. Built with React Js. |
-| [**Oksigen Medis 24 Jam (Mobile)**](https://github.com/nabilkencana/oksigen24medis-mobile) | Medical oxygen supply platform | Mobile application for ordering and delivering medical oxygen, including emergency features and order tracking. Built with Flutter.<br><sub>🕒 Updated Aug 8, 2026</sub> |
+| [**Oksigen Medis 24 Jam (Mobile)**](https://github.com/nabilkencana/oksigen24medis-mobile) | Medical oxygen supply platform | Mobile application for ordering and delivering medical oxygen, including emergency features and order tracking. Built with Flutter.<br><sub>🕒 Updated Aug 27, 2026</sub> |
 | [**Portofolio NabilKencana**](https://github.com/nabilkencana/Portofolio) | Portfolio website NabilKencana | Portfolio website NabilKencana to show my project and my skill. Built with Vite Js.<br><sub>🕒 Updated Aug 20, 2026</sub> |
 <!-- AUTO:FEATURED:END -->
 
@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Aug 26, 2026: created a branch in [nabilkencana/Langkahku-Website](https://github.com/nabilkencana/Langkahku-Website).
+- Aug 27, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Mobile](https://github.com/nabilkencana/Oksigen24Medis-Mobile).
 - Aug 26, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
+- Aug 26, 2026: created a branch in [nabilkencana/Langkahku-Website](https://github.com/nabilkencana/Langkahku-Website).
 - Aug 26, 2026: created a branch in [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Aug 25, 2026: pushed 1 commit to [nabilkencana/AI-Service-LaporKita](https://github.com/nabilkencana/AI-Service-LaporKita).
 - Aug 25, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
-- Aug 25, 2026: pushed 1 commit to [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
