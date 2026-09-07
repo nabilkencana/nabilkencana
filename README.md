@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 5, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-Laravel](https://github.com/nabilkencana/SpaceBooking-Laravel).
+- Sep 7, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-NextJs](https://github.com/nabilkencana/SpaceBooking-NextJs).
+- Sep 4, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-Laravel](https://github.com/nabilkencana/SpaceBooking-Laravel).
 - Sep 5, 2026: pushed 1 commit to [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 - Sep 5, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-NextJs](https://github.com/nabilkencana/SpaceBooking-NextJs).
-- Sep 5, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-Laravel](https://github.com/nabilkencana/SpaceBooking-Laravel).
-- Sep 4, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-Laravel](https://github.com/nabilkencana/SpaceBooking-Laravel).
 - Sep 5, 2026: created a branch in [nabilkencana/SpaceBooking-NextJs](https://github.com/nabilkencana/SpaceBooking-NextJs).
-- Sep 4, 2026: created a branch in [nabilkencana/SpaceBooking-Laravel](https://github.com/nabilkencana/SpaceBooking-Laravel).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
