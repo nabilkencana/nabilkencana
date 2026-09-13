@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 13, 2026: pushed 1 commit to [dhianaaa/Sirkula_UKK_Mobile_App](https://github.com/dhianaaa/Sirkula_UKK_Mobile_App).
 - Sep 12, 2026: pushed 1 commit to [nabilkencana/Project-SaaS-Xolvon](https://github.com/nabilkencana/Project-SaaS-Xolvon).
 - Sep 10, 2026: pushed 1 commit to [nabilkencana/Oksigen24Medis-Backend](https://github.com/nabilkencana/Oksigen24Medis-Backend).
 - Sep 7, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-NextJs](https://github.com/nabilkencana/SpaceBooking-NextJs).
 - Sep 7, 2026: pushed 1 commit to [nabilkencana/Project-SaaS-Xolvon](https://github.com/nabilkencana/Project-SaaS-Xolvon).
 - Sep 5, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-NextJs](https://github.com/nabilkencana/SpaceBooking-NextJs).
-- Sep 5, 2026: pushed 1 commit to [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
