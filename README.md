@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Sep 21, 2026: pushed 1 commit to [nabilkencana/Coworking-NestJs](https://github.com/nabilkencana/Coworking-NestJs).
 - Sep 21, 2026: pushed 1 commit to [nabilkencana/SpaceBooking-NextJs](https://github.com/nabilkencana/SpaceBooking-NextJs).
+- Sep 22, 2026: pushed 1 commit to [nabilkencana/Strategart-Laravel](https://github.com/nabilkencana/Strategart-Laravel).
+- Sep 22, 2026: created a branch in [nabilkencana/Strategart-Laravel](https://github.com/nabilkencana/Strategart-Laravel).
+- Sep 21, 2026: pushed 1 commit to [nabilkencana/Coworking-NestJs](https://github.com/nabilkencana/Coworking-NestJs).
 - Sep 20, 2026: pushed 1 commit to [danisaji58/working-space](https://github.com/danisaji58/working-space).
 - Sep 20, 2026: pushed 1 commit to [Dikk66/UKK-Paket-B](https://github.com/Dikk66/UKK-Paket-B).
-- Sep 20, 2026: pushed 1 commit to [affanatha/ukk26](https://github.com/affanatha/ukk26).
-- Sep 18, 2026: created a branch in [nabilkencana/Coworking-NestJs](https://github.com/nabilkencana/Coworking-NestJs).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
