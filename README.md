@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 29, 2026: created a branch in [nabilkencana/CTF-Writeup](https://github.com/nabilkencana/CTF-Writeup).
 - Sep 28, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Sep 28, 2026: pushed 1 commit to [nabilkencana/AI-Service-LaporKita](https://github.com/nabilkencana/AI-Service-LaporKita).
 - Sep 27, 2026: pushed 1 commit to [nabilkencana/AI-Service-LaporKita](https://github.com/nabilkencana/AI-Service-LaporKita).
 - Sep 27, 2026: pushed 1 commit to [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 - Sep 25, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
-- Sep 24, 2026: pushed 1 commit to [nabilkencana/Project-SaaS-Xolvon](https://github.com/nabilkencana/Project-SaaS-Xolvon).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
