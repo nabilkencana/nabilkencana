@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 12, 2026: created a branch in [nabilkencana/Designer-Portofolio](https://github.com/nabilkencana/Designer-Portofolio).
+- Oct 13, 2026: pushed 1 commit to [nabilkencana/Laravel-UKL](https://github.com/nabilkencana/Laravel-UKL).
 - Oct 12, 2026: pushed 1 commit to [nabilkencana/Photography-Portofolio](https://github.com/nabilkencana/Photography-Portofolio).
 - Oct 10, 2026: pushed 1 commit to [dhianaaa/Portofolio_Adhiana](https://github.com/dhianaaa/Portofolio_Adhiana).
 - Oct 10, 2026: created a branch in [dhianaaa/Portofolio_Adhiana](https://github.com/dhianaaa/Portofolio_Adhiana).
 - Oct 8, 2026: pushed 1 commit to [nabilkencana/Dalang-Style](https://github.com/nabilkencana/Dalang-Style).
-- Oct 9, 2026: pushed 1 commit to [nabilkencana/nabilkencana](https://github.com/nabilkencana/nabilkencana).
-- Oct 7, 2026: pushed 1 commit to [nabilkencana/Laravel-UKL](https://github.com/nabilkencana/Laravel-UKL).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
