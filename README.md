@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 16, 2026: pushed 1 commit to [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
 - Oct 15, 2026: created a branch in [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
 - Oct 14, 2026: created a branch in [nabilkencana/StudyCase-LKS](https://github.com/nabilkencana/StudyCase-LKS).
 - Oct 13, 2026: pushed 1 commit to [nabilkencana/Laravel-UKL](https://github.com/nabilkencana/Laravel-UKL).
 - Oct 12, 2026: created a branch in [nabilkencana/Photography-Portofolio](https://github.com/nabilkencana/Photography-Portofolio).
 - Oct 13, 2026: pushed 1 commit to [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
-- Oct 12, 2026: created a branch in [nabilkencana/Designer-Portofolio](https://github.com/nabilkencana/Designer-Portofolio).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
