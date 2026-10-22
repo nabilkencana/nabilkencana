@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 22, 2026: pushed 1 commit to [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
 - Oct 21, 2026: pushed 1 commit to [nabilkencana/Dalang-Style](https://github.com/nabilkencana/Dalang-Style).
 - Oct 21, 2026: pushed 1 commit to [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
 - Oct 19, 2026: pushed 1 commit to [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
 - Oct 20, 2026: pushed 1 commit to [nabilkencana/SuaraMoklet-Frontend](https://github.com/nabilkencana/SuaraMoklet-Frontend).
 - Oct 19, 2026: pushed 1 commit to [elzidanee/laporkita](https://github.com/elzidanee/laporkita).
-- Oct 17, 2026: pushed 1 commit to [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
