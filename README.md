@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 31, 2026: pushed 1 commit to [nabilkencana/AI-Service-LaporKita](https://github.com/nabilkencana/AI-Service-LaporKita).
+- Oct 31, 2026: pushed 1 commit to [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 - Nov 1, 2026: merged pull request [#1](https://github.com/nabilkencana/Backend-Laporkita) in [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 - Nov 1, 2026: opened pull request [#1](https://github.com/nabilkencana/Backend-Laporkita) in [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
 - Oct 28, 2026: pushed 1 commit to [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
 - Oct 23, 2026: pushed 1 commit to [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
-- Oct 22, 2026: pushed 1 commit to [nabilkencana/Compe-LKS](https://github.com/nabilkencana/Compe-LKS).
-- Oct 21, 2026: pushed 1 commit to [nabilkencana/Dalang-Style](https://github.com/nabilkencana/Dalang-Style).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
