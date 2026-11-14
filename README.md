@@ -59,11 +59,11 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 12, 2026: pushed 1 commit to [nabilkencana/LaporKita-Profile](https://github.com/nabilkencana/LaporKita-Profile).
 - Nov 12, 2026: pushed 1 commit to [elzidanee/laporkita](https://github.com/elzidanee/laporkita).
 - Nov 13, 2026: pushed 1 commit to [nabilkencana/LaporKita-Profile](https://github.com/nabilkencana/LaporKita-Profile).
 - Nov 11, 2026: pushed 1 commit to [nabilkencana/Dalang-Style](https://github.com/nabilkencana/Dalang-Style).
 - Nov 11, 2026: pushed 1 commit to [nabilkencana/Gendingan-Frontend](https://github.com/nabilkencana/Gendingan-Frontend).
-- Nov 12, 2026: pushed 1 commit to [nabilkencana/LaporKita-Profile](https://github.com/nabilkencana/LaporKita-Profile).
 - Nov 10, 2026: created a branch in [nabilkencana/Gendingan-Frontend](https://github.com/nabilkencana/Gendingan-Frontend).
 <!-- AUTO:ACTIVITY:END -->
 
