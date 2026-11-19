@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Nov 17, 2026: pushed 1 commit to [nabilkencana/Dalang-Style](https://github.com/nabilkencana/Dalang-Style).
+- Nov 19, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
 - Nov 18, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
+- Nov 18, 2026: created a branch in [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
+- Nov 17, 2026: pushed 1 commit to [nabilkencana/Dalang-Style](https://github.com/nabilkencana/Dalang-Style).
 - Nov 17, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
 - Nov 13, 2026: pushed 1 commit to [nabilkencana/Backend-Laporkita](https://github.com/nabilkencana/Backend-Laporkita).
-- Nov 12, 2026: created a branch in [nabilkencana/LaporKita-Profile](https://github.com/nabilkencana/LaporKita-Profile).
-- Nov 12, 2026: pushed 1 commit to [nabilkencana/LaporKita-Profile](https://github.com/nabilkencana/LaporKita-Profile).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
