@@ -59,12 +59,12 @@ Currently studying Computer Science, I focus on building scalable applications w
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Nov 25, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
 - Nov 26, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
+- Nov 27, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
+- Nov 25, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
 - Nov 24, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
 - Nov 24, 2026: pushed 1 commit to [nabilkencana/Dalang-Style](https://github.com/nabilkencana/Dalang-Style).
 - Nov 20, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
-- Nov 19, 2026: pushed 1 commit to [nabilkencana/Console-Hub](https://github.com/nabilkencana/Console-Hub).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
